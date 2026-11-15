@@ -27,7 +27,7 @@ __description__ = ("Fast answers for chats: start typing a message and a panel w
                    "Быстрые ответы в чате: начните писать сообщение — над клавиатурой "
                    "появится панель с готовыми ответами.")
 __author__ = "@itNotMax - @MaxExteraPlugins"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __icon__ = "MaxExteraPluginsStickers/28"
 __min_version__ = "12.10.6"
 __app_version__ = ">=12.1.1"

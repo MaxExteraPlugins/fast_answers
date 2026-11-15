@@ -28,7 +28,7 @@ Fast reply message templates for instant single-tap sending.
 ## 📥 Installation
 
 1. Navigate to the [**Releases**](https://github.com/MaxExteraPlugins/fast_answers/releases/latest) section.
-2. Download the `fast_answers_v1.0.0.plugin` file.
+2. Download the `fast_answers_v1.0.1.plugin` file.
 3. Send the file to your Telegram Saved Messages or open it via file manager in exteraGram / AyuGram.
 4. Tap the file in Telegram and choose **"Install plugin"**.
 
